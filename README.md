@@ -27,7 +27,7 @@
 - 🔍 Inline search + global file search
 - 🐚 Real embedded PowerShell via winpty
 - 🎨 Ayu Dark / Light / Mirage themes
-- ⌨️ 100% keyboard-driven
+- ⌨️ 100% keyboard-driven + Mouse Clickable
 
 ```bash
 pip install trix-ide
