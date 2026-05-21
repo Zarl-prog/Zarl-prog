@@ -44,15 +44,7 @@ trix
 ### What it looks like inside
 
 ```
-┌─ T R I X ──────────────────────────────────────────────────────────────┐
-│ ┌─ Files ──────┬──── Editor — app.py ──────────────┬──── Terminal ────┐ │
-│ │ 📁 .git      │  1  from textual.app import App   │ PS C:\> git log  │ │
-│ │ 📁 trix      │  2  import asyncio                │ * feat: zen mode │ │
-│ │   app.py     │  3                                │ * fix: search    │ │
-│ │   themes.py  │  4  class TrixApp(App):           │ PS C:\>_         │ │
-│ └──────────────┴───────────────────────────────────┴──────────────────┘ │
-│  TRIX  app.py  Ln 4, Col 1  Python  main  [?] Help                      │
-└─────────────────────────────────────────────────────────────────────────┘
+<img width="1898" height="1017" alt="Screenshot 2026-05-18 150803" src="https://github.com/user-attachments/assets/5d2aed9e-ee51-4872-b57c-3a019fdad45b" />
 ```
 
 ---
