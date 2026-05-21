@@ -44,7 +44,10 @@ trix
 ### What it looks like inside
 
 ```
-<img width="1898" height="1017" alt="Screenshot 2026-05-18 150803" src="https://github.com/user-attachments/assets/5d2aed9e-ee51-4872-b57c-3a019fdad45b" />
+<img width="1898" height="1017" alt="Screenshot 2026-05-18 150803" src="https://github.com/user-attachments/assets/43b8afef-c071-4b83-a3d3-fc42eed5c363" />
+
+
+
 ```
 
 ---
