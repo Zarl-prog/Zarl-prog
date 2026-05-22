@@ -47,7 +47,7 @@ trix
 
 
 
-###Git commit Screen--->
+### Git commit Screen--->
 <img width="1917" height="948" alt="Screenshot 2026-05-20 192023" src="https://github.com/user-attachments/assets/041c60a9-e455-49d1-8c9c-a9d17eea6db7" />
 
 
