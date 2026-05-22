@@ -43,14 +43,8 @@ trix
 
 ### What it looks like inside
 
-```
-<img width="1898" height="1017" alt="Screenshot 2026-05-18 150803" src="https://github.com/user-attachments/assets/43b8afef-c071-4b83-a3d3-fc42eed5c363" />
+<img width="1898" height="1017" alt="Screenshot 2026-05-18 150803" src="https://github.com/user-attachments/assets/0acf9cff-45c6-4f06-8736-1a0a5ecc41f9" />
 
-
-
-```
-
----
 
 ### `$ whoami`
 
