@@ -46,6 +46,11 @@ trix
 <img width="1898" height="1017" alt="Screenshot 2026-05-18 150803" src="https://github.com/user-attachments/assets/0acf9cff-45c6-4f06-8736-1a0a5ecc41f9" />
 
 
+
+Git commit Screen--->
+<img width="1917" height="948" alt="Screenshot 2026-05-20 192023" src="https://github.com/user-attachments/assets/041c60a9-e455-49d1-8c9c-a9d17eea6db7" />
+
+
 ### `$ whoami`
 
 ```python
