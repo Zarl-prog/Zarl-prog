@@ -48,7 +48,7 @@ trix
 
 
 ### Git commit Screen--->
-<img width="1917" height="948" alt="Screenshot 2026-05-20 192023" src="https://github.com/user-attachments/assets/041c60a9-e455-49d1-8c9c-a9d17eea6db7" />
+<img width="1917" height="948" alt="Screenshot 2026-05-20 192023" src="https://github.com/user-attachments/assets/d4c1f3e9-0465-49ea-b97c-73dd112af5f3" />
 
 
 ### `$ whoami`
