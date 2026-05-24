@@ -10,51 +10,6 @@
  
 ---
 
-## 🖥️ Featured Project — Trix-TUI
-
-<a href="https://github.com/Zarl-prog/Trix-TUI">
-  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Zarl-prog&repo=Trix-TUI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00b4ff&text_color=c9d1d9" />
-</a>
-
-```
-████████╗██████╗ ██╗██╗  ██╗
-╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-   ██║   ██████╔╝██║ ╚███╔╝
-   ██║   ██╔══██╗██║ ██╔██╗
-   ██║   ██║  ██║██║██╔╝ ██╗
-   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-```
-
-**A terminal-native IDE. No Electron. No browser. No bloat.**
-
-- 🗂️ 3-panel layout — File Tree · Editor · Terminal
-- ⚡ Syntax highlighting for 20+ languages
-- 🔍 Inline search + global file search
-- 🐚 Real embedded PowerShell via winpty
-- 🎨 Ayu Dark / Light / Mirage themes
-- ⌨️ 100% keyboard-driven + Mouse Clickable
-
-```bash
-pip install trix-ide
-trix
-```
-
-[![PyPI](https://img.shields.io/badge/PyPI-trix--ide-0d1117?style=for-the-badge&logo=pypi&logoColor=00ff88)](https://pypi.org/project/trix-ide/)
-[![Stars](https://img.shields.io/github/stars/Zarl-prog/Trix-TUI?style=for-the-badge&color=ffa657&logo=github&logoColor=ffa657&labelColor=0d1117)](https://github.com/Zarl-prog/Trix-TUI/stargazers)
-[![Python](https://img.shields.io/badge/Python-3.10+-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Zarl-prog/Trix-TUI/blob/main/LICENSE)
-
----
-
-### What it looks like inside
-
-<img width="1898" height="1017" alt="Screenshot 2026-05-18 150803" src="https://github.com/user-attachments/assets/0acf9cff-45c6-4f06-8736-1a0a5ecc41f9" />
-
-
-
-### Git commit Screen--->
-<img width="1917" height="948" alt="Screenshot 2026-05-20 192023" src="https://github.com/user-attachments/assets/d4c1f3e9-0465-49ea-b97c-73dd112af5f3" />
-
 
 ### `$ whoami`
 
