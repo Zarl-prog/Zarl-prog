@@ -63,7 +63,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/mend-favicon.svg" width="18" valign="middle"/> Mend AI</h3>
+      <h3> <img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/mend-favicon.svg" width="18" valign="middle"/> Mend AI </h3>
       <p>AI-powered tool that fixes and improves your code. Paste broken or messy code in — get clean, corrected code back out. Fast and no-friction.</p>
       <p>
         <a href="https://mend-ai-fawn.vercel.app/">
@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/prettydoc-favicon.png" width="18" valign="middle"/> PrettyDoc</h3>
+      <h3> <img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/prettydoc-favicon.png" width="18" valign="middle"/> PrettyDoc</h3>
       <p>Turn plain text or Markdown into a polished PDF or styled HTML file, right in the browser. Pick your font, size, spacing — export in one click. Zero installs.</p>
       <p>
         <a href="https://pretty-doc.vercel.app/">
