@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=I+build+things+that+shouldn%27t+exist+yet.;Dev+tools.+AI.+Whatever+needs+to+be+made.;Code+that+runs+where+it+belongs.;Shipping+quietly.+Loudly." alt="Typing SVG" />
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&text=Building%20things%20quietly.&fontSize=28&fontColor=00ff88&animation=blinking&fontAlign=50&fontAlignY=55&stroke=00ff88&strokeWidth=1" />
+
+
 ## Add me on Discord
 
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
