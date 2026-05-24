@@ -50,46 +50,15 @@
 
 
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗄️ Repo Vault</h3>
-      <p>Save GitHub repo links instantly. Paste a URL, name is auto-detected, stored locally on your device. No accounts, no cloud, no tracking. Under 3MB.</p>
-      <p>
-        <a href="https://repo-vaultdev.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-repo--vaultdev.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Mend AI</h3>
-      <p>AI-powered tool that fixes and improves your code. Paste broken or messy code in — get clean, corrected code back out. Fast and no-friction.</p>
-      <p>
-        <a href="https://mend-ai-fawn.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-mend--ai.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 PrettyDoc</h3>
-      <p>Turn plain text or Markdown into a polished PDF or styled HTML file, right in the browser. Pick your font, size, spacing — export in one click. Zero installs.</p>
-      <p>
-        <a href="https://pretty-doc.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-pretty--doc.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔩 More coming...</h3>
-      <p>Always building something. Watch this space.</p>
-      <p>
-        <img src="https://img.shields.io/badge/status-in%20progress-ffa657?style=flat-square&labelColor=0d1117" />
-      </p>
-    </td>
-  </tr>
-</table>
+## 🌐 Web Projects
+
+- <img src="https://repo-vaultdev.vercel.app/favicon.ico" width="14"/> [Repo Vault](https://repo-vaultdev.vercel.app/) — Save GitHub repo links instantly. No accounts, no cloud.
+- <img src="https://mend-ai-fawn.vercel.app/favicon.ico" width="14"/> [Mend AI](https://mend-ai-fawn.vercel.app/) — AI that fixes and cleans your code.
+- <img src="https://pretty-doc.vercel.app/favicon.ico" width="14"/> [PrettyDoc](https://pretty-doc.vercel.app/) — Turn Markdown into a polished PDF or HTML. In the browser.
+
+## 🖥️ Terminal Projects
+
+- <img src="https://raw.githubusercontent.com/Zarl-prog/Trix-TUI/main/assets/icon.png" width="14"/> [Trix-TUI](https://github.com/Zarl-prog/Trix-TUI) — Terminal-native IDE. No Electron. No bloat.
 
 
 ---
