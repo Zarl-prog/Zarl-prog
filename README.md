@@ -1,6 +1,9 @@
 <!-- Typing SVG -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=header&text=Zarl-prog&fontSize=40&fontColor=0d1117&fontAlignY=35&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=I+build+things+that+shouldn%27t+exist+yet.;Dev+tools.+AI.+Whatever+needs+to+be+made.;Code+that+runs+where+it+belongs.;Shipping+quietly.+Loudly." alt="Typing SVG" />
+</p>
+
 ## Add me on Discord
 
                                        
