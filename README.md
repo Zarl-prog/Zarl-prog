@@ -10,7 +10,10 @@
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 
 
-
+<p align="center">
+  <img width="45%" src="https://streak-stats.demolab.com?user=Zarl-prog&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=ffa657&currStreakLabel=00ff88" />
+  <img width="45%" src="https://github-contribution-stats.vercel.app/api/?username=Zarl-prog" />
+</p>
 
 
 ### `$ whoami`
