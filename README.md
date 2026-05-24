@@ -7,7 +7,6 @@
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&text=Building%20things%20quietly.&fontSize=28&fontColor=00ff88&animation=blinking&fontAlign=50&fontAlignY=55&stroke=00ff88&strokeWidth=1" />
 
 
  <p align="center">
