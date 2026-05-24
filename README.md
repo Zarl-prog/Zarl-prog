@@ -10,17 +10,7 @@
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 
 
-<p align="center">
-  <img width="45%" src="https://streak-stats.demolab.com?user=Zarl-prog&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=ffa657&currStreakLabel=00ff88" />
-  <img width="45%" src="https://github-contribution-stats.vercel.app/api/?username=Zarl-prog" />
-</p>
 
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarl-prog&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zarl-prog&theme=github_dark&utcOffset=5.5" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarl-prog&theme=github_dark" />
-</p>
 
 ### `$ whoami`
 
@@ -123,6 +113,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=00ff88&label=profile+views" />
 </p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarl-prog&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zarl-prog&theme=github_dark&utcOffset=5.5" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarl-prog&theme=github_dark" />
+</p>
+
 
 <p align="center">
   <sub>commits feed the snake · the snake is always hungry</sub>
