@@ -46,6 +46,27 @@
 
 ---
 
+---
+
+## 🌐 Web Projects
+
+| Project | Description |
+|--------|-------------|
+| [**Repo Vault**](https://repo-vaultdev.vercel.app/) | Save GitHub repo links instantly. Paste a URL, name is auto-detected, stored locally. No accounts, no cloud, under 3MB. |
+| [**Mend AI**](https://mend-ai-fawn.vercel.app/) | AI-powered tool for fixing and improving your code — paste it in, get it back better. |
+| [**PrettyDoc**](https://pretty-doc.vercel.app/) | Turn plain text or Markdown into a polished PDF or HTML file, right in the browser. No installs. |
+
+---
+
+## 🖥️ Terminal Projects
+
+| Project | Description |
+|--------|-------------|
+| [**Trix-TUI**](https://github.com/Zarl-prog/Trix-TUI) | A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat. |
+
+---
+
+
 ### 🐍 Contribution Snake
 
 <picture>
