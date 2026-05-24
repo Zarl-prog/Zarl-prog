@@ -13,7 +13,9 @@
 
 </p>
 
-<img width="100%" src="https://github-contribution-stats.vercel.app/api/?username=Zarl-prog" />
+<p align="center">
+  <img src="https://skyline.github.com/Zarl-prog/2024.svg" />
+</p>
 
 ---
 
