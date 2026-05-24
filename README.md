@@ -108,6 +108,8 @@
 ### 🐍 Contribution Snake
 
 <img width="100%" src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake-dark.svg" />
+
+
 ---
 
 <p align="center">
