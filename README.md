@@ -102,15 +102,14 @@
 |--------|-------------|
 | [**Trix-TUI**](https://github.com/Zarl-prog/Trix-TUI) | A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat. |
 
----
 
+🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-### 🐍 Contribution Snake
-
-<img width="100%" src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake-dark.svg" />
-
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=00ff88&label=profile+views" />
