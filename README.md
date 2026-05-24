@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+tools+that+feel+like+magic.;Your+terminal+deserves+better.;No+Electron.+No+bloat.+Just+speed.;I+make+computers+do+things." alt="Typing SVG" />
 </p>
-###Add me on Discord
+### Add me on Discord
 
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 
