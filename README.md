@@ -9,9 +9,20 @@
                                        
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 
+
 <p align="center">
   <img src="https://skyline.github.com/Zarl-prog/2024.svg" />
 </p>
+
+
+
+
+
+
+
+
+
+
 
 ---
 
