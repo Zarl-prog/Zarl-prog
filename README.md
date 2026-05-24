@@ -56,10 +56,6 @@
 - <img src="https://mend-ai-fawn.vercel.app/favicon.ico" width="14"/> [Mend AI](https://mend-ai-fawn.vercel.app/) — AI that fixes and cleans your code.
 - <img src="https://pretty-doc.vercel.app/favicon.ico" width="14"/> [PrettyDoc](https://pretty-doc.vercel.app/) — Turn Markdown into a polished PDF or HTML. In the browser.
 
-## 🖥️ Terminal Projects
-
-- <img src="https://raw.githubusercontent.com/Zarl-prog/Trix-TUI/main/assets/icon.png" width="14"/> [Trix-TUI](https://github.com/Zarl-prog/Trix-TUI) — Terminal-native IDE. No Electron. No bloat.
-
 
 ---
 
