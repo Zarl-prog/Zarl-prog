@@ -1,10 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00B4FF&center=true&vCenter=true&width=600&lines=I+don%27t+talk+about+what+I%27m+building.;I+just+ship+it.;Dev+tools.+AI+systems.+CLI+utilities.;The+best+interface+is+the+one+you+build." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+AI+tools+nobody+asked+for.;But+everyone+will+use.;Terminal-first.+Always.;%5Bobsessed+with+the+craft%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Not+here+to+impress+you.;Here+to+build+things.;Quietly.;%5Bcommit+pushed%5D" alt="Typing SVG" />
 </p>
 
 ## Add me on Discord
