@@ -9,10 +9,7 @@
                                        
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=150&text=Zarl-prog&fontSize=50&fontColor=00ff88&animation=fadeIn&stroke=00ff88&strokeWidth=2" />
 
 ### `$ whoami`
 
