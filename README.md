@@ -10,7 +10,8 @@
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zarl-prog&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&layout=compact" />
+<img width="100%" src="https://metrics.lecoq.io/Zarl-prog?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&config.timezone=Asia%2FKolkata" />
+
 
 ### `$ whoami`
 
