@@ -63,7 +63,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> <img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/mend-favicon.svg" width="18" valign="middle"/> Mend AI </h3>
+      <h3> <img src="https://repo-vaultdev.vercel.app/favicon.ico" width="14"/> Mend AI </h3>
       <p>AI-powered tool that fixes and improves your code. Paste broken or messy code in — get clean, corrected code back out. Fast and no-friction.</p>
       <p>
         <a href="https://mend-ai-fawn.vercel.app/">
