@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 
 
-<img width="100%" src="https://metrics.lecoq.io/Zarl-prog?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&config.timezone=Asia%2FKolkata" />
+
 
 
 ### `$ whoami`
@@ -108,12 +108,7 @@
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
+<img width="100%" src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake-dark.svg" />
 ---
 
 <p align="center">
