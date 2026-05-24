@@ -1,14 +1,14 @@
 <!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Not+here+to+impress+you.;Here+to+build+things.;Quietly.;%5Bcommit+pushed%5D" alt="Typing SVG" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=header&text=Zarl-prog&fontSize=40&fontColor=0d1117&fontAlignY=35&animation=fadeIn" />
 ## Add me on Discord
 
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 
- 
+
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=I+build+things+that+shouldn%27t+exist+yet.;Dev+tools.+AI.+Whatever+needs+to+be+made.;Code+that+runs+where+it+belongs.;Shipping+quietly.+Loudly." alt="Typing SVG" />
+</p>
 ---
 
 
