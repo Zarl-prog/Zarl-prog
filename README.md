@@ -48,13 +48,49 @@
 
 ---
 
-## 🌐 Web Projects
 
-| Project | Description |
-|--------|-------------|
-| [**Repo Vault**](https://repo-vaultdev.vercel.app/) | Save GitHub repo links instantly. Paste a URL, name is auto-detected, stored locally. No accounts, no cloud, under 3MB. |
-| [**Mend AI**](https://mend-ai-fawn.vercel.app/) | AI-powered tool for fixing and improving your code — paste it in, get it back better. |
-| [**PrettyDoc**](https://pretty-doc.vercel.app/) | Turn plain text or Markdown into a polished PDF or HTML file, right in the browser. No installs. |
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗄️ Repo Vault</h3>
+      <p>Save GitHub repo links instantly. Paste a URL, name is auto-detected, stored locally on your device. No accounts, no cloud, no tracking. Under 3MB.</p>
+      <p>
+        <a href="https://repo-vaultdev.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-repo--vaultdev.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Mend AI</h3>
+      <p>AI-powered tool that fixes and improves your code. Paste broken or messy code in — get clean, corrected code back out. Fast and no-friction.</p>
+      <p>
+        <a href="https://mend-ai-fawn.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-mend--ai.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 PrettyDoc</h3>
+      <p>Turn plain text or Markdown into a polished PDF or styled HTML file, right in the browser. Pick your font, size, spacing — export in one click. Zero installs.</p>
+      <p>
+        <a href="https://pretty-doc.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-pretty--doc.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔩 More coming...</h3>
+      <p>Always building something. Watch this space.</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-in%20progress-ffa657?style=flat-square&labelColor=0d1117" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
