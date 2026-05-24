@@ -7,7 +7,6 @@
 
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1240207792002826313)](https://discord.com/users/1240207792002826313)
  
 ---
 
