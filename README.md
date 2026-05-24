@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=80&section=footer" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zarl-prog&bg_color=0d1117&color=00ff88&line=00b4ff&point=ffffff&area=true&hide_border=true" />
 
 
 ## Add me on Discord
