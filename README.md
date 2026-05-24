@@ -126,4 +126,6 @@
   <sub>commits feed the snake · the snake is always hungry</sub>
 </p>
 
+<img width="100%" src="https://github-contribution-stats.vercel.app/api/?username=Zarl-prog" />
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zarl-prog&bg_color=0d1117&color=00ff88&line=00b4ff&point=ffffff&area=true&hide_border=true" />
