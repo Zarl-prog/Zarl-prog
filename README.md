@@ -3,7 +3,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=header&text=Zarl-prog&fontSize=40&fontColor=0d1117&fontAlignY=35&animation=fadeIn" />
 ## Add me on Discord
 
-[![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
+                                       
+                                                   [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 
 
  <p align="center">
