@@ -1,5 +1,7 @@
 <!-- Typing SVG -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zarl-prog&bg_color=0d1117&color=00ff88&line=00b4ff&point=ffffff&area=true&hide_border=true" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00B4FF&center=true&vCenter=true&width=600&lines=I+don%27t+talk+about+what+I%27m+building.;I+just+ship+it.;Dev+tools.+AI+systems.+CLI+utilities.;The+best+interface+is+the+one+you+build." alt="Typing SVG" />
+</p>
 
 
 ## Add me on Discord
