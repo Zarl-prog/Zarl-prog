@@ -114,9 +114,6 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=00ff88&label=profile+views" />
-</p>
 
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarl-prog&theme=github_dark" />
