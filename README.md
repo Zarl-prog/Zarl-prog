@@ -49,6 +49,49 @@
 
 ---
 
+## 🛠️ Skills & Projects
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+<a href="https://github.com/Zarl-prog/Smart-git-commit">
+<img src="https://img.shields.io/badge/Smart--Git--Commit-181717?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+<br/><br/>
+<b>Smart Git Commit</b>
+<br/>
+<sub>AI agent skill that replaces vague commits with structured 5-part messages. Secret scanning, test gating, atomic splits.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/stars/Zarl-prog/Smart-git-commit?style=social"/>
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/Zarl-prog/doc-drift-detector">
+<img src="https://img.shields.io/badge/Doc--Drift--Detector-181717?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+<br/><br/>
+<b>Doc Drift Detector</b>
+<br/>
+<sub>Detects when your documentation falls out of sync with your codebase. Keep your docs honest.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/stars/Zarl-prog/doc-drift-detector?style=social"/>
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/Zarl-prog/huashu-design-english">
+<img src="https://img.shields.io/badge/Huashu--Design--English-181717?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+<br/><br/>
+<b>Huashu Design English</b>
+<br/>
+<sub>Design language and component naming conventions in English for consistent UI development.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/stars/Zarl-prog/huashu-design-english?style=social"/>
+</td>
+
+</tr>
+</table>
 
 
 🌐 Web Projects
