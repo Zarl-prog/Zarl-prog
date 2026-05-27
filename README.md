@@ -108,7 +108,7 @@
     </td>
     <td width="50%" valign="top">
       <h3> <h3><img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/cube-favicon.svg" width="18" valign="middle"/> Mend AI</h3> Mend AI </h3>
-      <p>AI-powered tool that fixes and improves your code. Paste broken or messy code in — get clean, corrected code back out. Fast and no-friction.</p>
+      <p>A Canvas Drawable App that can be helpful for understanding and planning stuff</p>
       <p>
         <a href="https://mend-ai-fawn.vercel.app/">
           <img src="https://img.shields.io/badge/Live-mend--ai.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
