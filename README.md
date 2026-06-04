@@ -41,7 +41,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zarl-prog&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00b4ff&text_color=c9d1d9" height="155"/>
+
   <img src="https://streak-stats.demolab.com?user=Zarl-prog&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=ffa657&currStreakLabel=00ff88" height="155"/>
+  
 </p>
 
 ---
