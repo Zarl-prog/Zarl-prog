@@ -97,10 +97,8 @@
 
 
 🌐 Web Projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📌 PinedIn</h3>
+<td width="50%" valign="top">
+      <h3><img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/icon.svg" width="18" valign="middle"/> PinedIn</h3>
       <p>Always-on-top focus reminder desktop app. Distraction-free, lightweight, and persistent. Built with Tauri v2, React, TypeScript, SQLite.</p>
       <p>
         <a href="https://pinedin-landing.vercel.app/">
