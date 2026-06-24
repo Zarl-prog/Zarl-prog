@@ -103,7 +103,8 @@
       <h3><img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/icon.svg" width="18" valign="middle"/> PinedIn</h3>
       <p>Always-on-top focus reminder desktop app. Distraction-free, lightweight, and persistent. Built with Tauri v2, React, TypeScript, SQLite.</p>
       <p>
-        <a href="https://pinedin-landing.vercel.app/">
+        <a href="https://pinedin.vercel.app/">
+          <a herf="https://pinedin.in/"
           <img src="https://img.shields.io/badge/Live-pinedin--landing.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
         </a>
       </p>
