@@ -97,15 +97,15 @@
 
 
 🌐 Web Projects
+🌐 Web Projects
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/icon.svg" width="18" valign="middle"/> PinedIn</h3>
-      <p>Always-on-top focus reminder desktop app. Distraction-free, lightweight, and persistent. Built with Tauri v2, React, TypeScript, SQLite.</p>
+      <h3><img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/icon.svg" width="18" valign="middle"/> PinedIn ⭐ Featured</h3>
+      <p><b>The focus app that actually stays out of your way.</b> Always-on-top, distraction-free, persistent. No subscriptions, no cloud, no noise. Built with Tauri v2, React, TypeScript, SQLite.</p>
       <p>
         <a href="https://pinedin.vercel.app/">
-          <a herf="https://pinedin.in/">
-          <img src="https://img.shields.io/badge/Live-pinedin--landing.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Open↗-00ff88?style=for-the-badge&logoColor=0d1117" />
         </a>
       </p>
     </td>
@@ -114,7 +114,7 @@
       <p>Save GitHub repo links instantly. Paste a URL, name is auto-detected, stored locally on your device. No accounts, no cloud, no tracking. Under 3MB.</p>
       <p>
         <a href="https://repo-vaultdev.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-repo--vaultdev.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Open↗-555?style=for-the-badge&logoColor=white" />
         </a>
       </p>
     </td>
@@ -125,7 +125,7 @@
       <p>A Canvas Drawable App that can be helpful for understanding and planning stuff.</p>
       <p>
         <a href="https://mend-ai-fawn.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-mend--ai.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Open↗-555?style=for-the-badge&logoColor=white" />
         </a>
       </p>
     </td>
@@ -134,7 +134,7 @@
       <p>Turn plain text or Markdown into a polished PDF or styled HTML file, right in the browser. Pick your font, size, spacing — export in one click. Zero installs.</p>
       <p>
         <a href="https://pretty-doc.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-pretty--doc.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Open↗-555?style=for-the-badge&logoColor=white" />
         </a>
       </p>
     </td>
