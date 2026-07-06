@@ -23,6 +23,9 @@
   <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=00ff88&label=profile+views" />
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zarl-prog.Zarl-prog&left_color=0d1117&right_color=00ff88&left_text=visitors" />
+</p>
 
 ---
 
