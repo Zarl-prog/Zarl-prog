@@ -107,22 +107,6 @@
 
 ---
 
-<p align="center">
-  <sub>commits feed the snake · the snake is always hungry</sub>
-</p>
-
-
-
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarl-prog&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zarl-prog&theme=github_dark&utcOffset=5.5" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarl-prog&theme=github_dark" />
-</p>
-
-
----
-
 🐍 Contribution Snake
 
 <picture>
