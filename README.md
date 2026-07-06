@@ -24,9 +24,12 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zarl-prog.Zarl-prog&left_color=0d1117&right_color=00ff88&left_text=visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=00ff88&label=profile+views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Zarl-prog?style=flat-square&color=00b4ff&label=followers&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Zarl-prog?style=flat-square&color=ffa657&label=total+stars&labelColor=0d1117&affiliations=OWNER" />
 </p>
-
 ---
 
 ### ⚙️ Stack
