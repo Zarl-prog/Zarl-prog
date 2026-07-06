@@ -57,7 +57,7 @@
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 <a href="https://github.com/Zarl-prog/Smart-git-commit">
 <img src="https://img.shields.io/badge/Smart--Git--Commit-181717?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
@@ -69,23 +69,11 @@
 <img src="https://img.shields.io/github/stars/Zarl-prog/Smart-git-commit?style=social"/>
 </td>
 
-<td align="center" width="33%">
-<a href="https://github.com/Zarl-prog/doc-drift-detector">
-<img src="https://img.shields.io/badge/Doc--Drift--Detector-181717?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
-<br/><br/>
-<b>Doc Drift Detector</b>
-<br/>
-<sub>Detects when your documentation falls out of sync with your codebase. Keep your docs honest.</sub>
-<br/><br/>
-<img src="https://img.shields.io/github/stars/Zarl-prog/doc-drift-detector?style=social"/>
-</td>
-
 </tr>
 </table>
 
+---
 
-🌐 Web Projects
 🌐 Web Projects
 <table>
   <tr>
@@ -99,30 +87,10 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://repo-vaultdev.vercel.app/favicon.ico" width="14"/> Repo Vault</h3>
-      <p>Save GitHub repo links instantly. Paste a URL, name is auto-detected, stored locally on your device. No accounts, no cloud, no tracking. Under 3MB.</p>
-      <p>
-        <a href="https://repo-vaultdev.vercel.app/">
-          <img src="https://img.shields.io/badge/Open↗-555?style=for-the-badge&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/cube-favicon.svg" width="18" valign="middle"/> Mend AI</h3>
       <p>A Canvas Drawable App that can be helpful for understanding and planning stuff.</p>
       <p>
         <a href="https://mend-ai-fawn.vercel.app/">
-          <img src="https://img.shields.io/badge/Open↗-555?style=for-the-badge&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/PrettyDoc.ico.png" width="18" valign="middle"/> PrettyDoc</h3>
-      <p>Turn plain text or Markdown into a polished PDF or styled HTML file, right in the browser. Pick your font, size, spacing — export in one click. Zero installs.</p>
-      <p>
-        <a href="https://pretty-doc.vercel.app/">
           <img src="https://img.shields.io/badge/Open↗-555?style=for-the-badge&logoColor=white" />
         </a>
       </p>
