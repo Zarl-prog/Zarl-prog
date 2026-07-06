@@ -13,9 +13,6 @@
   "motto":   "The best interface is the one you build yourself."
 }
 ```
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=0079ff&label=profile+views" />
-</p>
 
 
 ## Add me on Discord
@@ -27,12 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=00ff88&label=profile+views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=00ff88&label=profile+views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Zarl-prog?style=flat-square&color=00b4ff&label=followers&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Zarl-prog?style=flat-square&color=ffa657&label=total+stars&labelColor=0d1117&affiliations=OWNER" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=0079ff&label=profile+views" />
 </p>
 ---
 
