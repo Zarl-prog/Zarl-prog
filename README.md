@@ -13,6 +13,10 @@
   "motto":   "The best interface is the one you build yourself."
 }
 ```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=0079ff&label=profile+views" />
+</p>
+
 
 ## Add me on Discord
 
