@@ -104,7 +104,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [**Trix-TUI**](https://github.com/Zarl-prog/Trix-TUI) | A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat. |
+| [**Trix-TUI**](https://github.com/Zarl-prog/Trix-TUI) | A terminal-native IDE — file tree, editor, and embedded shell in one.|
 |One line to Download|`pip install trix-ide`| 
 ---
 
