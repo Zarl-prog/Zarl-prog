@@ -24,30 +24,25 @@
 
 
 
-CLI Skills
-
-
-Smart Git Commit <img src="https://api.iconify.design/mdi/github.svg?color=%23181717" width="18" valign="middle" />
-AI agent skill that replaces vague commits with structured 5-part messages. Includes secret scanning, test gating, and atomic commit splitting.
-Try by: npx skills add Zarl-prog/Smart-git-commit <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
-
-
-Web Projects
-
-
-PinedIn
-The focus app that actually stays out of your way. Always-on-top, distraction-free, and persistent — no subscriptions, no cloud, no noise. Built with Tauri v2, React, TypeScript, and SQLite.
-Mend AI
-A canvas-based drawable app for understanding and planning ideas visually.
-
-
-Terminal Projects
-
-
-Trix-TUI <img src="https://api.iconify.design/mdi/github.svg?color=%23181717" width="18" valign="middle" />
-A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat.
-Try by: pip install trix-ide <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
-
+---
+ 
+## CLI Skills
+ 
+* [Smart Git Commit](https://github.com/Zarl-prog/Smart-git-commit) <img src="https://api.iconify.design/mdi/github.svg?color=%23181717" width="18" valign="middle" />
+  AI agent skill that replaces vague commits with structured 5-part messages. Includes secret scanning, test gating, and atomic commit splitting.
+  Try by: `npx skills add Zarl-prog/Smart-git-commit` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
+## Web Projects
+ 
+* [PinedIn](https://pinedin.vercel.app/)
+  The focus app that actually stays out of your way. Always-on-top, distraction-free, and persistent — no subscriptions, no cloud, no noise. Built with Tauri v2, React, TypeScript, and SQLite.
+* [Mend AI](https://mend-ai-fawn.vercel.app/)
+  A canvas-based drawable app for understanding and planning ideas visually.
+## Terminal Projects
+ 
+* [Trix-TUI](https://github.com/Zarl-prog/Trix-TUI) <img src="https://api.iconify.design/mdi/github.svg?color=%23181717" width="18" valign="middle" />
+  A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat.
+  Try by: `pip install trix-ide` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
+ 
 
 🐍 Contribution Snake
 
