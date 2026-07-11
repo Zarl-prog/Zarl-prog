@@ -2,20 +2,6 @@
 
 
 
-
-
-
-### `$ whoami`
-
-```python
-{
-  "name":    "Asim",
-  "builds":  ["dev tools", "terminal utilities", "AI stuff"],
-  "motto":   "The best interface is the one you build yourself."
-}
-```
-
-
 ## Add me on Discord
 
                                        
