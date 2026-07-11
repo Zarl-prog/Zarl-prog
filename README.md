@@ -24,60 +24,37 @@
 
 ---
 
-## 🛠️ Skills & Projects
+## 🛠️ CLI Skills
 
-<table>
-<tr>
+**Smart Git Commit** — AI agent skill that replaces vague commits with structured 5-part messages. Secret scanning, test gating, atomic splits.
 
-<td align="center" width="50%">
-<a href="https://github.com/Zarl-prog/Smart-git-commit">
-<img src="https://img.shields.io/badge/Smart--Git--Commit-181717?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-<br/><br/>
-<b>Smart Git Commit</b>
-<br/>
-<sub>AI agent skill that replaces vague commits with structured 5-part messages. Secret scanning, test gating, atomic splits.</sub>
-<br/><br/>
-<img src="https://img.shields.io/github/stars/Zarl-prog/Smart-git-commit?style=social"/>
-</td>
+`npx skills add Zarl-prog/Smart-git-commit`
 
-</tr>
-</table>
+[![GitHub](https://img.shields.io/badge/GitHub-Smart--Git--Commit-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zarl-prog/Smart-git-commit)
+![Stars](https://img.shields.io/github/stars/Zarl-prog/Smart-git-commit?style=flat-square&color=ffa657)
 
 ---
 
-🌐 Web Projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/icon.svg" width="18" valign="middle"/> PinedIn ⭐ Featured</h3>
-      <p><b>The focus app that actually stays out of your way.</b> Always-on-top, distraction-free, persistent. No subscriptions, no cloud, no noise. Built with Tauri v2, React, TypeScript, SQLite.</p>
-      <p>
-        <a href="https://pinedin.vercel.app/">
-          <img src="https://img.shields.io/badge/Open↗-00ff88?style=for-the-badge&logoColor=0d1117" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/cube-favicon.svg" width="18" valign="middle"/> Mend AI</h3>
-      <p>A Canvas Drawable App that can be helpful for understanding and planning stuff.</p>
-      <p>
-        <a href="https://mend-ai-fawn.vercel.app/">
-          <img src="https://img.shields.io/badge/Open↗-555?style=for-the-badge&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+## 🌐 Web Projects
+
+**<img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/icon.svg" width="14" valign="middle"/> PinedIn** ⭐ — The focus app that actually stays out of your way. Always-on-top, distraction-free, persistent. No subscriptions, no cloud, no noise. Built with Tauri v2, React, TypeScript, SQLite.
+
+[![Open↗](https://img.shields.io/badge/Open↗-00ff88?style=flat-square&logoColor=0d1117)](https://pinedin.vercel.app/)
+
+**<img src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/main/assets/cube-favicon.svg" width="14" valign="middle"/> Mend AI** — A canvas drawable app for understanding and planning stuff.
+
+[![Open↗](https://img.shields.io/badge/Open↗-555?style=flat-square&logoColor=white)](https://mend-ai-fawn.vercel.app/)
+
 ---
 
 ## 🖥️ Terminal Projects
 
-| Project | Description |
-|--------|-------------|
-| [**Trix-TUI**](https://github.com/Zarl-prog/Trix-TUI) | A terminal-native IDE — file tree, editor, and embedded shell in one.|
-|One line to Download|`pip install trix-ide`| 
----
+**Trix-TUI** — A terminal-native IDE. File tree, editor, and embedded shell in one. No Electron. No bloat.
+
+`pip install trix-ide`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Trix--TUI-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zarl-prog/Trix-TUI)
+![Stars](https://img.shields.io/github/stars/Zarl-prog/Trix-TUI?style=flat-square&color=ffa657)
 
 🐍 Contribution Snake
 
