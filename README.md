@@ -36,63 +36,43 @@
 
 ---
 
-<br/>
+## CLI Skills
 
-<h2>
-  <img src="https://api.iconify.design/material-symbols/auto-awesome-outline.svg?color=%2358a6ff" width="22" valign="middle" />
-  CLI Skills
-</h2>
-
-### Smart Git Commit
-
+**Smart Git Commit**
 AI agent skill that replaces vague commits with structured 5-part messages. Includes secret scanning, test gating, and atomic commit splitting.
 
 ```bash
 npx skills add Zarl-prog/Smart-git-commit
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-Smart--Git--Commit-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zarl-prog/Smart-git-commit)
+[<img src="https://api.iconify.design/mdi/github.svg?color=%23888888" width="20" />](https://github.com/Zarl-prog/Smart-git-commit)
 
 <br/>
 
----
+## Web Projects
 
-<h2>
-  <img src="https://api.iconify.design/material-symbols/language.svg?color=%2358a6ff" width="22" valign="middle" />
-  Web Projects
-</h2>
-
-### PinedIn
-
+**PinedIn**
 The focus app that actually stays out of your way. Always-on-top, distraction-free, and persistent — no subscriptions, no cloud, no noise. Built with Tauri v2, React, TypeScript, and SQLite.
 
-[![Open](https://img.shields.io/badge/Open-00ff88?style=flat-square&logoColor=0d1117)](https://pinedin.vercel.app/)
+[<img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%23888888" width="20" />](https://pinedin.vercel.app/)
 
-### Mend AI
-
+**Mend AI**
 A canvas-based drawable app for understanding and planning ideas visually.
 
-[![Open](https://img.shields.io/badge/Open-555555?style=flat-square&logoColor=white)](https://mend-ai-fawn.vercel.app/)
+[<img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%23888888" width="20" />](https://mend-ai-fawn.vercel.app/)
 
 <br/>
 
----
+## Terminal Projects
 
-<h2>
-  <img src="https://api.iconify.design/material-symbols/code.svg?color=%2358a6ff" width="22" valign="middle" />
-  Terminal Projects
-</h2>
-
-### Trix-TUI
-
+**Trix-TUI**
 A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat.
 
 ```bash
 pip install trix-ide
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-Trix--TUI-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zarl-prog/Trix-TUI)
-
+[<img src="https://api.iconify.design/mdi/github.svg?color=%23888888" width="20" />](https://github.com/Zarl-prog/Trix-TUI)
 </br>
 
 🐍 Contribution Snake
