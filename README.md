@@ -38,39 +38,29 @@
 
 ## CLI Skills
 
-**Smart Git Commit**
-AI agent skill that replaces vague commits with structured 5-part messages. Includes secret scanning, test gating, and atomic commit splitting.
+* [Smart Git Commit](https://github.com/Zarl-prog/Smart-git-commit) <img src="https://api.iconify.design/mdi/github.svg?color=%23888888" width="14" valign="middle" />
 
-```bash
-npx skills add Zarl-prog/Smart-git-commit
-```
+  `npx skills add Zarl-prog/Smart-git-commit` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
 
-[<img src="https://api.iconify.design/mdi/github.svg?color=%23888888" width="20" />](https://github.com/Zarl-prog/Smart-git-commit)
-
-<br/>
+  AI agent skill that replaces vague commits with structured 5-part messages. Includes secret scanning, test gating, and atomic commit splitting.
 
 ## Web Projects
 
-**PinedIn**
-The focus app that actually stays out of your way. Always-on-top, distraction-free, and persistent — no subscriptions, no cloud, no noise. Built with Tauri v2, React, TypeScript, and SQLite.
+* [PinedIn](https://pinedin.vercel.app/)
 
-[<img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%23888888" width="20" />](https://pinedin.vercel.app/)
+  The focus app that actually stays out of your way. Always-on-top, distraction-free, and persistent — no subscriptions, no cloud, no noise. Built with Tauri v2, React, TypeScript, and SQLite.
 
-**Mend AI**
-A canvas-based drawable app for understanding and planning ideas visually.
+* [Mend AI](https://mend-ai-fawn.vercel.app/)
 
-[<img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%23888888" width="20" />](https://mend-ai-fawn.vercel.app/)
-
-<br/>
+  A canvas-based drawable app for understanding and planning ideas visually.
 
 ## Terminal Projects
 
-**Trix-TUI**
-A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat.
+* [Trix-TUI](https://github.com/Zarl-prog/Trix-TUI) <img src="https://api.iconify.design/mdi/github.svg?color=%23888888" width="14" valign="middle" />
 
-```bash
-pip install trix-ide
-```
+  `pip install trix-ide` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
+
+  A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat.
 
 [<img src="https://api.iconify.design/mdi/github.svg?color=%23888888" width="20" />](https://github.com/Zarl-prog/Trix-TUI)
 </br>
