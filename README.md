@@ -42,7 +42,8 @@
 ## Terminal Projects
  
 * [Trix-TUI](https://github.com/Zarl-prog/Trix-TUI) <img src="https://api.iconify.design/mdi/github.svg?color=%23181717" width="18" valign="middle" />
-  A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat.
+  A terminal-native IDE — file tree, editor, and embedded shell in one.
+  
   Try by: `pip install trix-ide` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
  
 
