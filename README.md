@@ -116,8 +116,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-
-
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zarl-prog&bg_color=0d1117&color=00ff88&line=00b4ff&point=ffffff&area=true&hide_border=true" />
