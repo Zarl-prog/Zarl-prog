@@ -4,7 +4,6 @@
 
 ## Socials
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Asimdevv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asimwork)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/asimdev.bsky.social)
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 <p align="left">
