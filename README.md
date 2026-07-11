@@ -30,7 +30,9 @@
  
 * [Smart Git Commit](https://github.com/Zarl-prog/Smart-git-commit) <img src="https://api.iconify.design/mdi/github.svg?color=%23181717" width="18" valign="middle" />
   AI agent skill that replaces vague commits with structured 5-part messages. Includes secret scanning, test gating, and atomic commit splitting.
-  Try by: `npx skills add Zarl-prog/Smart-git-commit` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
+
+  Try by: `npx skills add Zarl-prog/Smart-git-commit`
+  <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
 ## Web Projects
  
 * [PinedIn](https://pinedin.vercel.app/)
