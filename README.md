@@ -22,19 +22,6 @@
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![tmux](https://img.shields.io/badge/tmux-0d1117?style=for-the-badge&logo=tmux&logoColor=1BB91F)
 
----
-
-<div align="center">
-
-<img src="https://api.iconify.design/material-symbols/terminal.svg?color=%2358a6ff" width="42" />
-
-# Zarl-prog
-
-**Building focused, no-nonsense developer tools — CLI automation, terminal-native apps, and lightweight productivity software.**
-
-</div>
-
----
 
 ## CLI Skills
 
