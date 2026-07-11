@@ -47,13 +47,11 @@
  
 ## Terminal Projects
  
-#### [Trix-TUI](https://github.com/Zarl-prog/Trix-TUI)
+#### [Trix-TUI](https://github.com/Zarl-prog/Trix-TUI) [<img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="24" valign="middle" />](https://github.com/Trix-TUI)
  
   A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat.
  
   Try by: `pip install trix-ide` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
-
-[<img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="24" valign="middle" />](https://github.com/Zarl-prog/Smart-git-commit)
  
 
 🐍 Contribution Snake
