@@ -51,12 +51,7 @@
 [![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logoColor=0d1117)](https://YOUR_PORTFOLIO_URL) -->
 
-  
- 
-🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Zarl-prog/Zarl-prog/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=0079ff&label=profile+views" />
+</p>
