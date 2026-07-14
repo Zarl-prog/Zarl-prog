@@ -1,12 +1,5 @@
 <img width="950" height="88" alt="Screenshot From 2026-07-07 04-04-46" src="https://github.com/user-attachments/assets/d78d15c2-f621-4b10-846d-9afb1b537a3d" />
 
-
-
-## Socials
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Asimdevv)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/asimdev.bsky.social)
-[![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logoColor=0d1117)](https://YOUR_PORTFOLIO_URL) -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=0079ff&label=profile+views" />
 </p>
@@ -51,6 +44,14 @@
   A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat.
  
   Try by: `pip install trix-ide` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
+
+## Socials
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Asimdevv)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/asimdev.bsky.social)
+[![Discord](https://img.shields.io/badge/z4rl.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1240207792002826313)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logoColor=0d1117)](https://YOUR_PORTFOLIO_URL) -->
+
+  
  
 🐍 Contribution Snake
 
