@@ -1,8 +1,6 @@
 <img width="950" height="88" alt="Screenshot From 2026-07-07 04-04-46" src="https://github.com/user-attachments/assets/d78d15c2-f621-4b10-846d-9afb1b537a3d" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=0079ff&label=profile+views" />
-</p>
+
 
 ### ⚙️ Stack
 
