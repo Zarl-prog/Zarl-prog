@@ -54,7 +54,9 @@
   <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=0079ff&label=profile+views" />
 </p>
 
-
 ![Views](https://komarev.com/ghpvc/?username=Zarl-prog&color=00ff88&style=flat-square&label=views)
+![Hits](https://hit.yhype.me/github/profile?user_id=226822618)
 ![Followers](https://img.shields.io/github/followers/Zarl-prog?color=00ff88&style=flat-square&label=followers)
 ![Stars](https://img.shields.io/github/stars/Zarl-prog?color=00ff88&style=flat-square&label=stars&affiliations=OWNER)
+![Repos](https://img.shields.io/badge/repos-17-00ff88?style=flat-square)
+![PRs](https://img.shields.io/github/issues-search?query=author%3AZarl-prog+is%3Apr&color=00ff88&style=flat-square&label=prs)
