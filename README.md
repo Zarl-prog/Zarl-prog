@@ -53,3 +53,4 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Zarl-prog&style=flat-square&color=0079ff&label=profile+views" />
 </p>
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=41467&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=726&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=185&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=115&color=2347cc&style=flat-square) [![wakatime](https://wakatime.com/badge/user/175665bc-a6a0-4303-80ac-5a323cfb3ab4.svg?style=flat-square)](https://wakatime.com/@175665bc-a6a0-4303-80ac-5a323cfb3ab4)
