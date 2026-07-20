@@ -15,8 +15,7 @@
 
 
 
----
- ## Projects
+ ### Projects
 
  
 #### [Smart Git Commit](https://github.com/Zarl-prog/Smart-git-commit) <img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="24" valign="middle" />
