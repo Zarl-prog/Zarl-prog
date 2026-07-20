@@ -16,8 +16,8 @@
 
 
 ---
- 
-## CLI Skills
+ #Projects
+
  
 #### [Smart Git Commit](https://github.com/Zarl-prog/Smart-git-commit) <img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="24" valign="middle" />
  
@@ -25,7 +25,7 @@
  
   Try by: `npx skills add Zarl-prog/Smart-git-commit` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
  
-## Web Projects
+
  
 #### [PinedIn](https://pinedin.vercel.app/) <img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%2358a6ff" width="24" valign="middle" />
  
@@ -35,7 +35,7 @@
  
   A canvas-based drawable app for understanding and planning ideas visually.
  
-## Terminal Projects
+
  
 #### [Trix-TUI](https://github.com/Zarl-prog/Trix-TUI) <img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="24" valign="middle" />
  
