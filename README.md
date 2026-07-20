@@ -17,13 +17,7 @@
 
  ## Projects
 
- 
-#### [Smart Git Commit](https://github.com/Zarl-prog/Smart-git-commit) <img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="24" valign="middle" />
- 
-  AI agent skill that replaces vague commits with structured 5-part messages. Includes secret scanning, test gating, and atomic commit splitting.
- 
-  Try by: `npx skills add Zarl-prog/Smart-git-commit` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
- 
+
 
  
 #### [PinedIn](https://pinedin.vercel.app/) <img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%2358a6ff" width="24" valign="middle" />
@@ -41,7 +35,13 @@
   A terminal-native IDE — file tree, editor, and embedded shell in one. No Electron. No bloat.
  
   Try by: `pip install trix-ide` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
-
+ 
+#### [Smart Git Commit](https://github.com/Zarl-prog/Smart-git-commit) <img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="24" valign="middle" />
+ 
+  AI agent skill that replaces vague commits with structured 5-part messages. Includes secret scanning, test gating, and atomic commit splitting.
+ 
+  Try by: `npx skills add Zarl-prog/Smart-git-commit` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
+ 
 ## Connect
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Asimdevv)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/asimdev.bsky.social)
