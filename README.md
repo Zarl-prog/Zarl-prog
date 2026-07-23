@@ -20,7 +20,7 @@
 
 
  
-#### [PinedIn](https://pinedin.vercel.app/) <img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%2358a6ff" width="24" valign="middle" />
+#### PinedIn <a href="https://github.com/Zarl-prog/Pinedin" target="_blank"><img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="22" valign="middle" /></a> <a href="https://pinedin.vercel.app/" target="_blank"><img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%2358a6ff" width="22" valign="middle" /></a>
  
 a desktop productivity app built with Tauri + Rust that keeps your tasks floating above every app on your screen. Features always-on-top task cards, global hotkeys, MCP server for AI agent integration, workspace profiles, compact/edge-peek display modes, auto-updater, and cross-platform support. Your tasks follow you everywhere — browser, game, IDE, meeting — until you mark them done
  
