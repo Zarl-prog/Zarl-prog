@@ -33,6 +33,7 @@ Mend AI is a free, local-first AI diagramming SPA built with React 18 + Vite 5. 
 #### [Trix-TUI](https://github.com/Zarl-prog/Trix-TUI) <img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="24" valign="middle" />
 
   A fast, keyboard-driven code editor that lives entirely in your terminal — file tree, Git integration, tree-sitter syntax highlighting, and 10 built-in themes.
+  and runs anywhere your terminal does.
 
   Try by: `pip install trix-ide` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
       or  `npm install -g trix-ide` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
