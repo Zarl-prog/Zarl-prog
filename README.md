@@ -35,6 +35,7 @@
   A fast, keyboard-driven code editor that lives entirely in your terminal — file tree, Git integration, tree-sitter syntax highlighting, and 10 built-in themes.
 
   Try by: `pip install trix-ide` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
+      or  `npm install -g trix-ide` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
  
 #### [Smart Git Commit](https://github.com/Zarl-prog/Smart-git-commit) <img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="24" valign="middle" />
  
