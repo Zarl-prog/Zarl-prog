@@ -24,10 +24,9 @@
  
   The focus app that actually stays out of your way. Always-on-top, distraction-free, and persistent — no subscriptions, no cloud, no noise. Built with Tauri v2, React, TypeScript, and SQLite.
  
-#### [Mend AI](https://mend-ai-fawn.vercel.app/) <img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%2358a6ff" width="24" valign="middle" />
- 
-  A canvas-based drawable app for understanding and planning ideas visually.
- 
+#### [Mend AI](https://mend-ai-fawn.vercel.app/) <img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%2358a6ff" width="24" valign="middle" /> · [GitHub](https://github.com/Zarl-prog/Mend-Ai)
+
+A canvas-based drawable app for understanding and planning ideas visually.
 
  
 #### [Trix-TUI](https://github.com/Zarl-prog/Trix-TUI) <img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="24" valign="middle" />
