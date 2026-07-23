@@ -22,13 +22,12 @@
  
 #### [PinedIn](https://pinedin.vercel.app/) <img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%2358a6ff" width="24" valign="middle" />
  
-  The focus app that actually stays out of your way. Always-on-top, distraction-free, and persistent — no subscriptions, no cloud, no noise. Built with Tauri v2, React, TypeScript, and SQLite.
+a desktop productivity app built with Tauri + Rust that keeps your tasks floating above every app on your screen. Features always-on-top task cards, global hotkeys, MCP server for AI agent integration, workspace profiles, compact/edge-peek display modes, auto-updater, and cross-platform support. Your tasks follow you everywhere — browser, game, IDE, meeting — until you mark them done
  
 #### [Mend AI](https://mend-ai-fawn.vercel.app) <a href="https://github.com/Zarl-prog/Mend-Ai" target="_blank"><img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="22" valign="middle" /></a> <a href="https://mend-ai-fawn.vercel.app/" target="_blank"><img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%2358a6ff" width="22" valign="middle" /></a>
 
 A canvas-based drawable app for understanding and planning ideas visually.
 
-A canvas-based drawable app for understanding and planning ideas visually.
 
  
 #### [Trix-TUI](https://github.com/Zarl-prog/Trix-TUI) <img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="24" valign="middle" />
