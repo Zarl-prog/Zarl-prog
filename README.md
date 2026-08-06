@@ -39,7 +39,7 @@ a desktop productivity app built with Tauri + Rust that keeps your tasks floatin
  
   Try by: `npx skills add Zarl-prog/Smart-git-commit` <img src="https://api.iconify.design/material-symbols/content-copy-outline.svg?color=%23888888" width="12" valign="middle" />
 
-#### [Mend AI](https://mend-ai-fawn.vercel.app) <a href="https://github.com/Zarl-prog/Mend-Ai" target="_blank"><img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="22" valign="middle" /></a> <a href="https://mend-ai-fawn.vercel.app/" target="_blank"><img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%2358a6ff" width="22" valign="middle" /></a>
+#### [Mend AI]([https://mend-ai-fawn.vercel.app](https://mend-draw.vercel.app/)) <a href="https://github.com/Zarl-prog/Mend-Ai" target="_blank"><img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="22" valign="middle" /></a> <a href="https://mend-ai-fawn.vercel.app/" target="_blank"><img src="https://api.iconify.design/material-symbols/open-in-new.svg?color=%2358a6ff" width="22" valign="middle" /></a>
 
 Mend AI is a free, local-first AI diagramming SPA built with React 18 + Vite 5. Users bring their own API key (auto-detected by prefix — Groq, OpenAI, Anthropic, Google Gemini, OpenRouter, Together AI) to generate and improve diagrams from natural language prompts. All state lives in the browser — no backend, no database, no account required. The canvas supports drag-and-drop shapes, connections, zoom/pan, export to SVG/PNG/PDF, undo/redo, and a full dark/light theme via CSS custom properties.
 
